@@ -1,0 +1,2 @@
+﻿Complete the models included in the project in such a way as if you would like EF to generate two tables based on them, the key of which will be the property 'Id' (Guid).
+The user table should have a link to the project table (one to many).

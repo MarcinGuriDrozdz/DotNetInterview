@@ -1,0 +1,15 @@
+---------------------------------------------- PART 1 ----------------------------------------
+In this task you will have to complete dtos and add endpoint that will return from database users along with projects.
+
+1. Complete GetProjectResponseDto based on a previously created model.
+
+2. Complete GetUserResponseDto based on a previously created model.
+
+3. Add GET /users endpoint in UsersController that return all users with projects [You can manually map objects to dto. Remember about asynchronously retrieving data from the database].
+
+---------------------------------------------- PART 2 ----------------------------------------
+In this task you will have to complete dto and add endpoint that will add new user.
+
+4. Complete CreateUserRequestDto.
+
+5. Add POST /users endpoint in UsersController that will add a new user based on created model.

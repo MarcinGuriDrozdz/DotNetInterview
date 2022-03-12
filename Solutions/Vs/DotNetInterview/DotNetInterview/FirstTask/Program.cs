@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using static System.Int32;
-
-namespace FirstTask
+﻿namespace FirstTask
 {
     internal class Program
     {
